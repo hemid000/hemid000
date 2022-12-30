@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hmid.yusifli04@mail.ru**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
