@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamid Yusifli</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
- <img width="350" height="250px" align="right" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="hemid000" /> 
+ <img width="350"  align="right" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="hemid000" /> 
 
-- 💬 Ask me about **html , css , scss , js , react , c++**
+- 💬 Ask me about **html , css , scss , js , react **
 
 - 📫 How to reach me **hmid.yusifli04@mail.ru**
 
