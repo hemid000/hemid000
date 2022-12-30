@@ -4,7 +4,7 @@
 
 
 
-- 💬 Ask me about **html , css , scss , js , react , c++**
+- 💬 Ask me about **html , css , scss , js , react **
 
 - 📫 How to reach me **hmid.yusifli04@mail.ru**
 
