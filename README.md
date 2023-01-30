@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamid Yusifli</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemid000&label=Profile%20views&color=0e75b6&style=flat" alt="hemid000" /> </p>
 
 - 💬 Ask me about **html , css , sass , javascript , react js , next js**
 
