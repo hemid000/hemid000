@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 
-- 💬 Ask me about **html , css , sass , javascript , react js , next js**
+- 💬 Ask me about **html , css , sass , javascript , react js , next js, bootstrap, tailwind css, vite.js**
 
 - 📫 How to reach me **hmid.yusifli04@mail.ru**
 
