@@ -5,9 +5,9 @@ preview
 
 - 🔭 I’m currently working on **ElmX**
 
-- 💬 Ask me about **html , css , sass , javascript , react js , next js, bootstrap, tailwind css, vite.js**
+- 💬 Ask me about **html , css , sass , javascript , react js , next js, bootstrap, tailwind css, vite.js, node.js, Sql/NoSql, mongoDB, Python(Pytorch), C++**
 
-- 📫 How to reach me **hmid.yusifli04@mail.ru**
+- 📫 How to reach me **hmid.yusifli04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
